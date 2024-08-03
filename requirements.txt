@@ -112,3 +112,6 @@ webencodings
 websocket-client
 Werkzeug
 widgetsnbextension
+gunicorn
+rust
+cargo
